@@ -38,3 +38,9 @@ Python 3.8 (32-bits)
 
 ##Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+##Bugs:
+No bugs found.
+
+##Authors:
+Leire Chavarri
