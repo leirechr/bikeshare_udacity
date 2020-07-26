@@ -44,3 +44,6 @@ No bugs found.
 
 ##Authors:
 Leire Chavarri
+
+##Thanks:
+Special thanks to everyone who has supported me to go deeper into Data analytics.
